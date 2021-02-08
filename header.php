@@ -1,4 +1,4 @@
-<!-- meta tags and other links -->
+meta tags and other links -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,8 +39,8 @@
     <div class="container">
       <nav class="navbar navbar-expand-xl p-0 align-items-center">
         <a class="site-logo site-title" href="index.html">
-          <h2 style="font-size: 52px !important;font-weight: bold;">Pros<span style="font-size: 52px !important;">peris</span></h2>
-          <!-- <img src="assets/images/logo.png" alt="site-logo"> -->
+          <!--h2 style="font-size: 52px !important;font-weight: bold;">Pros<span style="font-size: 52px !important;">peris</span></h2-->
+          <img src="assets/images/logoProv.jpeg" alt="site-logo" width="310px;">
           <span class="logo-icon"><i class="flaticon-fire"></i></span></a>
         <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="menu-toggle"></span>
@@ -48,9 +48,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav main-menu ml-auto">
             <li><a href="">Home</a></li>
-            <li><a href="">About</a></li>
+            <li><a href="#about-segment">About</a></li>
+            <li><a href="#services-segment">Services</a></li>
             
-            <li><a href="">contact us</a></li>
+            <li><a href="#contact-segment">contact us</a></li>
             <li><a class=" login-open-btn" >get loan</a></li>
           </ul>
           <div class="nav-right">
@@ -63,4 +64,4 @@
     </div>
   </div>
 </header>
-<!-- header-section end  -->
+<!-- header-section end 
