@@ -1,8 +1,8 @@
 
 <?php
 
-// require_once "Mail.php"; // PEAR Mail package
-// require_once ('Mail/mime.php'); // PEAR Mail_Mime packge
+require_once "Mail.php"; // PEAR Mail package
+require_once ('Mail/mime.php'); // PEAR Mail_Mime packge
 
  $name = $_POST['name']; // form field
  $email = $_POST['email']; // form field
