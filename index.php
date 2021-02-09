@@ -1,601 +1,535 @@
-<?php include "header.php"; ?>
-<!-- login-section start -->
-<div class="login-section">
-  <div class="login-area">
-    <div class="login-close">
-      <label>Close</label>
-    </div>
-    <div class="login-bg-shape bg_img" data-background="assets/images/elements/login-shape.png"></div>
-    <div class="row justify-content-between align-items-center">
-      <div class="col-lg-4">
-        <div class="login-thumb"><img src="assets/images/elements/login.png" alt="image"></div>
-      </div>
-      <div class="col-lg-7">
-        <div class="login-form-wrapper">
-          <h3 class="title">Get Loan !</h3>
-          <p class="text-white text-justify">
-            Get a loan of up to N4,000,000 within 14 working days<br><br>Need a loan to finance a new car, make home improvements or support your child's education? Prosperis Fund Limited offers quick, affordable and unrestricted loan facilities tailored to meet these needs and more.<br><br>These collateral free lifestyle products come with affordable interest rates and are conveniently structured such that repayment is spread over a period of 10 months, taking the pressure associated with loan repayment off you.With our loan facilities there are so many possibilities!
-          </p>
-          <button class="create-account signup-open-btn"> <br>Contact Us Now!</button>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- login-section end -->
+<!--<meta http-equiv="refresh" content="0; url=http://www.w3.org/">-->
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
 
-<!-- signup-section start -->
-<div class="signup-section">
-  <div class="signup-area">
-    <div class="signup-close">
-      <label>Close</label>
-    </div>
-    <div class="signup-bg-shape bg_img" data-background="assets/images/elements/login-shape.png"></div>
-    <div class="row justify-content-between align-items-center">
-      <div class="col-lg-5 order-lg-1 order-2">
-        <div class="signup-form-wrapper">
-          <h3 class="title">Contact Us Form</h3>
-          <form class="signup-form" method="POST" action="">
-            <div class="form-group">
-              <input type="email" name="signup_email" id="signup_email" placeholder="Email ">
-            </div>
-            <div class="form-group">
-              <input type="text" name="signup_email" id="name" placeholder="Full name ">
-            </div>
-            <div class="form-group">
-              <input type="text" name="signup_email" id="name" placeholder="Active Phone Number">
-            </div>
-            <div class="form-group">
-              <textarea placeholder="Message Here" style="color: #fff;border-color: #fff;"></textarea>
-            </div>
+<!DOCTYPE HTML>
+<html lang="zxx">
 
-            <div class="form-group mt-30">
-              <button type="submit" class="cmn-btn">Submit</button>
-            </div>
-          </form>
-        </div>
-      </div>
-      <div class="col-lg-6 order-lg-2 order-1">
-        <div class="signup-thumb"><img src="assets/images/elements/signup.png" alt="image"></div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- signup-section end -->
+<head>
+<title>Home | Unicorn capital investments limited</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Unicorn capital investments, cryptocurrency trading, get quick soft Loans, get 40%ROI in 20 days, empowerment package, invest and get returns quick, 
+procure assets with our asset managment, exportation of cash crops" />
+<script>
+		addEventListener("load", function() {
+			setTimeout(hideURLbar, 0);
+		}, false);
 
-<!-- hero-section start -->
-<section class="hero-section">
-  <div class="squre-shape"><img src="assets/images/elements/net.png" alt="imgae"></div>
-  <div class="ulka-1"><img src="assets/images/elements/ulka-1.png" alt="imgae"></div>
-  <div class="ulka-2"><img src="assets/images/elements/ulka-2.png" alt="imgae"></div>
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6 order-lg-1 order-2">
-        <div class="hero-content">
-          <h2 class="hero-title">best investment for life</h2>
-          <p>We offer a wide range of flexible and high yielding investment packages to assist individuals; build, manage and sustain wealth so as to maintain a lifestyle they are use to or attain that which they aspire.</p>
-          <div class="btn-area">
-            <!-- <a href="" class="cmn-btn login-open-btn">Reach Us Now!</a> -->
-            <button class="cmn-btn signup-open-btn">Reach Us Now!</button>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-6 order-lg-2 order-1">
-        <div class="hero-thumb wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.7s">
-          <img src="assets/images/elements/hero-image.png" alt="image">
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- hero-section end -->
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
 
-<!-- featues-section start -->
-<section class="feature-section mine-p mine-r">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-8">
-        <div class="section-header">
-          <h2 class="section-title">Best Investment Platform for Your life</h2>
-        </div>
-      </div>
-    </div>
-    <div class="row align-items-center feature-area">
-      <div class="col-lg-4 order-lg-1">
-        <div class="feature-item wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.3s">
-          <div class="feature-item-header">
-            <i class="flaticon-save-money"></i>
-            <h4 class="title">Responsiveness</h4>
-          </div>
-          <div class="feature-item-content">
-            <p>Ellentesque etiam erat, nisl nullam vel arcu odio ullamcorper erat, lobortidonec, vestibulum suspendisseegestas velit mauris tempus.</p>
-          </div>
-        </div><!-- feature-item end -->
-        <div class="feature-item wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.7s">
-          <div class="feature-item-header">
-            <i class="flaticon-projection-screen"></i>
-            <h4 class="title">Reliable Platform</h4>
-          </div>
-          <div class="feature-item-content">
-            <p>Ellentesque etiam erat, nisl nullam vel arcu odio ullamcorper erat, lobortidonec, vestibulum suspendisseegestas velit mauris tempus.</p>
-          </div>
-        </div><!-- feature-item end -->
-      </div>
-      <div class="col-lg-4 order-lg-3">
-        <div class="feature-item wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.5s">
-          <div class="feature-item-header">
-            <i class="flaticon-website"></i>
-            <h4 class="title">Flexibility</h4>
-          </div>
-          <div class="feature-item-content">
-            <p>Ellentesque etiam erat, nisl nullam vel arcu odio ullamcorper erat, lobortidonec, vestibulum suspendisseegestas velit mauris tempus.</p>
-          </div>
-        </div><!-- feature-item end -->
-        <div class="feature-item wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.9s">
-          <div class="feature-item-header">
-            <i class="fa fa-search"></i>
-            <h4 class="title">Transparency</h4>
-          </div>
-          <div class="feature-item-content">
-            <p>Ellentesque etiam erat, nisl nullam vel arcu odio ullamcorper erat, lobortidonec, vestibulum suspendisseegestas velit mauris tempus.</p>
-          </div>
-        </div><!-- feature-item end -->
-      </div>
-      <div class="col-lg-4 order-lg-2">
-        <div class="feature-thumb">
-          <img src="assets/images/elements/feature.png" alt="image" class="main-shape">
-          <img src="assets/images/elements/coin-3.png" alt="image" class="coin-1">
-          <img src="assets/images/elements/coin-4.png" alt="image" class="coin-2">
-          <img src="assets/images/elements/coin-5.png" alt="image" class="coin-3">
-          <img src="assets/images/elements/feature-circle.png" alt="image" class="circle">
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- feature-section end -->
+	<!-- Bootstrap Core CSS -->
+	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+	<link href="css/style.css" rel='stylesheet' type='text/css' />
+	
+	<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+	<!-- font-awesome icons -->
+	<link href="css/fontawesome-all.min.css" rel="stylesheet">
+	<!-- //Custom Theme files --
+	<!-- online fonts --
+	<!-- titles -->
+	<link href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
+	<!-- body -->
+	<link href="//fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet">
+</head>
 
-<!-- price-section start -->
-<section class="price-section pt-150 pb- mine-r section-bg"  id="about-segment">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-8">
-        <div class="section-header">
-          <h2 class="section-title">About Us</h2>
+<body>
 
-          <p class="text-center" > Prosperis Fund Limited was licensed in July 2018 as a finance company with the mission of providing prompt financial services to Small & Medium Scale Enterprises (SMEs) as well as to middle level income earners. 
-            We operate as a specialized financial institution focused on providing funding solutions to our target clientele and facilitating their business transactions.
-            Despite the fact that the cryptocurrency sphere is nascent and highly volatile, we have had great results thus growing our client base which consists of investors from diverse places and backgrounds.
-          We are committed in offering consultation services strived at assisting Small Medium Enterprises (SMEs) with trading capital and to boost such businesses to greater scale.</p>
-        </div>
-      </div>
-    </div>
-    <div class="row -p">
-      <div class="col-lg-6">
-        <div class="mission-vission-thumb">
-          <img src="assets/images/elements/mission-vission.png" alt="image">
-        </div>
-      </div>
-      <div class="col-lg-6">
-        <div class="mission-vission-content">
-          <div class="mission-vission-tab-area">
-            <ul class="nav nav-tabs" id="myTab" role="tablist">
-              <li>
-                <a class="active" id="vission-tab" data-toggle="tab" href="about.html#vission" role="tab" aria-controls="vission" aria-selected="true">our mission</a>
-              </li>
-            </ul>
-            <div class="tab-content" id="missionVissionTab">
-              <div class="tab-pane fade show active" id="vission" role="tabpanel" aria-labelledby="vission-tab">
-                <div class="mission-vission-content-area">
-                  <p>Provide superior options. Provide creative solutions. Deliver exceptional services, quick and responsive financial services to Individuals and Small & Medium scale businesses by leveraging on our people, technology and operational excellence while delivering real value to all stakeholders.</p>
-                  <div class="row mb-none-30">
-                    <div class="col-lg-6 col-sm-6">
-                      <div class="mission-vission-single mb-30">
-                        <h4 class="mv-title">Our Core Business</h4>
-                        <p>To intervene within the SME and personal finance space in Nigeria, We will seek out,tutor and fund SMEs and continuously hand hold till maturity of business. 
-                          <!-- Our services are customer-centered. We are focused on value creation for our customers and their businesses by providing timely solutions to their financial requirements and offering top-notch financial advisory services -->
-                        </p>
-                      </div>
-                    </div><!-- mission-vission-single end -->
-                    <div class="col-lg-6 col-sm-6">
-                      <div class="mission-vission-single mb-30">
-                        <h4 class="mv-title">Our Values</h4>
-                        <p>To build a first class,market oriented organization that creates wealth and facilitates growth. Our service delivery is highly efficient with a courteous and humane approach.</p>
-                      </div>
-                    </div><!-- mission-vission-single end -->
-                    <div class="col-lg-6 col-sm-6">
-                      <div class="mission-vission-single mb-30">
-                        <h4 class="mv-title">Prompt Support</h4>
-                        <p>We go the extra mile to gain in-depth knowledge and understanding of our customers business goals and objectives and thereafter, apply our financial expertise to achieve their short and long term goals.</p>
-                      </div>
-                    </div><!-- mission-vission-single end -->
-                    <div class="col-lg-6 col-sm-6">
-                      <div class="mission-vission-single mb-30">
-                        <h4 class="mv-title">vission 2023</h4>
-                        <p>Dominate and own the SME banking space, progressively transform into a commercial bank</p>
-                      </div>
-                    </div><!-- mission-vission-single end -->
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane fade" id="mission" role="tabpanel" aria-labelledby="mission-tab">
-                <div class="mission-vission-content-area">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, smtempor incididunt ut labore et dolore magna aliqua. Quis ipsum susdisse ultrices gravida. Risusvirra maecenas accumlacus vel facilisis.lobortis massa. Eget id pellentesque</p>
-                  <div class="row mb-none-30">
-                    <div class="col-lg-6 col-sm-6">
-                      <div class="mission-vission-single mb-30">
-                        <h4 class="mv-title">10000M Investor</h4>
-                        <p>Libero ullamcorper quis scelerque ac libero lacinia, maxime dis erat lectus ut rhoncus.</p>
-                      </div>
-                    </div><!-- mission-vission-single end -->
-                    <div class="col-lg-6 col-sm-6">
-                      <div class="mission-vission-single mb-30">
-                        <h4 class="mv-title">best investment</h4>
-                        <p>Libero ullamcorper quis scelerque ac libero lacinia, maxime dis erat lectus ut rhoncus.</p>
-                      </div>
-                    </div><!-- mission-vission-single end -->
-                    <div class="col-lg-6 col-sm-6">
-                      <div class="mission-vission-single mb-30">
-                        <h4 class="mv-title">25k Support</h4>
-                        <p>Libero ullamcorper quis scelerque ac libero lacinia, maxime dis erat lectus ut rhoncus.</p>
-                      </div>
-                    </div><!-- mission-vission-single end -->
-                    <div class="col-lg-6 col-sm-6">
-                      <div class="mission-vission-single mb-30">
-                        <h4 class="mv-title">vission 2030</h4>
-                        <p>Libero ullamcorper quis scelerque ac libero lacinia, maxime dis erat lectus ut rhoncus.</p>
-                      </div>
-                    </div><!-- mission-vission-single end -->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- price-section end -->
-<!-- testimonial-section start -->
-<section class="testimonial-section  mine-r  mine-pp section-bg-two" id="services-segment">
-  <div class="map-shape"><img src="assets/images/elements/map.png" alt="image"></div>
-  <div class="container">
-    <h2 class="text-center text-white" >Our Services</h2><br>
-    <div class="row feature-area mb-none-30">
-       <!-- four group is here -->
-        <div class="col-lg-4 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-university" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Asset Finance</h4>
-            <p>Financing of long term assets and equipment for MSMEs. E.g: motor vehicles, tricycle(Keke), motorcycles(okada), generators, freezer, farm machinery. E.t.c</p>
-          </div>
-        </div><!-- feature-item end -->
-        <div class="col-lg-4 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="flaticon-save-money" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">LPO Financing</h4>
-            <p>Financing for businesses that require funds to execute LPOs, Work Orders and Contracts from reputable companies.</p>
-          </div>
-        </div><!-- feature-item end -->
-        <div class="col-lg-4 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-book" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Invoice Finance</h4>
-            <p>Financing to qualified businesses who are in receipt of invoices that are due for payments from its suppliers.</p>
-          </div>
-        </div><!-- feature-item end -->
-        <!-- four group ended -->
-      <!-- four group is here -->
-        <div class="col-lg-3 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-fire" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Oil and Gas Services</h4>
-          </div>
-        </div><!-- feature-item end -->
-        <div class="col-lg-3 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-money" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Bureau De Change</h4>
-          </div>
-        </div><!-- feature-item end -->
-        <div class="col-lg-3 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="flaticon-website" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Projects & Procurements</h4>
-          </div>
-        </div><!-- feature-item end -->
-        <div class="col-lg-3 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-ship" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Shipping & Marine Services</h4>
-          </div>
-        </div><!-- feature-item end -->
-        <!-- four group ended -->
-      <!-- four group is here -->
-        <div class="col-lg-3 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-codiepie" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Coal</h4>
-          </div>
-        </div><!-- feature-item end -->
-        <div class="col-lg-3 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-codepen" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Bitumen</h4>
-          </div>
-        </div><!-- feature-item end -->
-        <div class="col-lg-3 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-diamond" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Gold</h4>
-          </div>
-        </div><!-- feature-item end -->
-        <div class="col-lg-3 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-eercast" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Iron ore </h4>
-          </div>
-        </div><!-- feature-item end -->
-        <!-- four group ended -->
-      <!-- four group is here -->
-        
-        <div class="col-lg-4 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-pagelines" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Agro Commodities & Exports</h4>
-          </div>
-        </div><!-- feature-item end -->
-        <div class="col-lg-4 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-balance-scale" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Mining & Solid Minerals</h4>
-          </div>
-        </div><!-- feature-item end -->
-        
-        <div class="col-lg-4 col-md-6">
-          <div class="feature-item style--two mb-30" style="padding-top:30px!important;">
-            <i class="fa fa-snowflake-o" style="font-size:40px;color: #fff;" ></i>
-            <h4 class="title">Lead and zinc </h4>
-          </div>
-        </div><!-- feature-item end -->
-        <!-- four group ended -->
-      </div>
-      <hr style="border-top: 4px dotted #fff;" />
-  </div>
-</section>
-<!-- testimonial-section end -->
+	<!-- header -->
+	<header>
+		<?php
+		include('includes/header.php');
+		?>
+	</header>
+	<!-- //header -->
+	<!-- banner -->
+	<section class="banner">
+		<div class="callbacks_container">
+			<ul class="rslides" id="slider3">
+				<li>
+					<div class="slider-info bg1">
+						<div class="banner-text container">
+							<h4 class="movetxt text-left mb-3 agile-title text-capitalize">OUR VISION</h4>
+							<p class="text-white mb-3">to build and sustain a financial services firm that touches lives and transforms businesses.</p>
+							<a class="bt text-capitalize" href="about.php" role="button"> read more
+								<i class="fas fa-angle-double-right"></i>
+							</a>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="slider-info bg2">
+						<div class="banner-text container">
+							<h4 class="movetxt text-left mb-3 agile-title text-capitalize">Mission Statement</h4>
+							<p class="text-white mb-3">providing resourceful financing solutions to all our clients driven by a highly motivated and well-trained workforce</p>
+							<a class="bt text-capitalize" href="about.php" role="button"> read more
+								<i class="fas fa-angle-double-right"></i>
+							</a>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="slider-info bg3">
+						<div class="banner-text container">
+							<h4 class="movetxt text-left mb-3 agile-title text-capitalize">UNICORN CAPITAL INVESTMENT LTD </h4>
+							<p class="text-white mb-3">committed to delivering robust services and results with a focus of becoming a well-known global investment services firm.</p>
+							<a class="bt text-capitalize" href="about.html" role="button"> read more
+								<i class="fas fa-angle-double-right"></i>
+							</a>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</section>
+	<!-- //banner -->
+	<!-- Products -->
+	<section class="services py-5">
+		<div class="container py-md-4 mt-md-3">
+			<h2 class="heading-agileinfo">
+				Top Services We Offer <span>
+					<a class="bt text-capitalize" href="about.html" role="button"> Check all Services
+						<i class="fas fa-angle-double-right"></i>
+					</a>
+				</span>
+			</h2>
+			<span class="w3-line black"></span>
+			<div class="row inner_w3l_agile_grids-1 mt-md-5 pt-4">
+				<div class="col-md-4 w3layouts_news_left_grid1">
+					<div class="new_top">
+						<i class="fa fa-btc"></i>
+						<h3 class="mb-3 mt-3">cryptocurrency trading</h3>
+						<p>We trade in cryptocurrencies to
+							proffer solutions in building the working
+							capital of investors</p>
+					</div>
+				</div>
+				<div class="col-md-4 w3layouts_news_left_grid2">
+					<div class="new_top">
+						<i class="fas fa-building"></i>
+						<h3 class="mb-3 mt-3">Granting of soft loans</h3>
+						<p>We offer soft loans to our customers with a flexible
+							interest rate that enable them pay back easily within 48 weeks
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4 w3layouts_news_left_grid3">
+					<div class="new_top">
+						<i class="fas fa-credit-card"></i>
+						<h3 class="mb-3 mt-3">Exportation</h3>
+						<p>Exportation of cash crops and processed food items such
+							as yam, yam flour, vegetables, cassava, stock fish etc.</p>
+					</div>
+				</div>
+			</div>
 
-<!-- statistics-section start -->
-<section class="statistics-section pb-50 mi mine-r">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 order-lg-1 order-2">
-        <div class="statistics-content">
-          <h2 class="title">investment</h2>
-          <!-- <h6 class="sub-description">Dapibus et amet sociis, arcu orci orci tincidunt neque. sit, justmauris eu malesuada architecto.</h6> -->
-          <p>Investing is about reaching set financial goals be it long term or short. Nonetheless, with the unending expenses incurred on a daily basis, planning towards a comfortable future goal may seem like a daunting task.</p>
-        </div>
-        <div class="row mb-none-30 mt-40">
-          <ul >
-            <li>
-              <div class="statistics-item mb-30 wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.3s">
-                <div class="round-icon"></div>
-                <div class="content">
-                  <p>In over 2 years of operation, we have been able to craft investment packages to suit all income bracket and this has earned us recognition both home and abroad.</p>
-                </div>
-              </div>
-            </li>
+		</div>
+	</section>
+	<!-- //Products -->
+	<!-- video -->
+	<section class="video-grid1">
+		<div class="demo-bg1">
+			<div class="pop-bg text-center position-relative py-5">
+				<div class="arrow-container animated fadeInDown">
+					<a href="#small-dialog1" class="arrow-2 popup-with-zoom-anim">
+						<i class="fa fa-play" aria-hidden="true"></i>
+					</a>
+					<div class="arrow-1 animated hinge infinite zoomIn"></div>
+				</div>
+				<!--  video-button-popup -->
+				<div id="small-dialog1" class="mfp-hide">
+					<div class="agileits_modal_body">
+						<iframe src="https://player.vimeo.com/video/83557847"></iframe>
+					</div>
+				</div>
+				<!-- // video-button-popup -->
+			</div>
+		</div>
+	</section>
+	<!-- //video -->
+	<!-- details -->
+	<section class="details-books py-5">
+		<div class="container py-md-4 mt-md-3">
+			<h2 class="heading-agileinfo">Fast & Easy Application Process<span>Speed Up the Loan Process</span></h2>
+			<span class="w3-line black"></span>
+			<div class="row mt-md-5 pt-4">
+				<div class="col-lg-6 agileits_updates_grid_right">
+					<div id="accordion">
+						<div class="card w3l-acd">
+							<div class="card-header wl3_head" id="headingOne">
+								<h5 class="mb-0">
+									<button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										<span class="fa fa-check mr-2" aria-hidden="true"></span>
+										Why our loan?
+									</button>
+								</h5>
+							</div>
+							<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+								<div class="card-body">
+									<p>
+										At Unicorn Capital investment Ltd, our interest rate is modified to suit our prospective clients for easy pay back within 48 weeks. Our loan ranges from 100,000(NGN) above. our charges rang is 18% down payment for loan: 15% insterest on loan : 2.5% on charges and insurance.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="card w3l-acd">
+							<div class="card-header wl3_head" id="headingTwo">
+								<h5 class="mb-0">
+									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+										<span class="fa fa-check mr-2" aria-hidden="true"></span>
+										LOAN SCHEME PACKAGE
+									</button>
+								</h5>
+							</div>
+							<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+								<div class="card-body">
+									<p>
+										<li>PLS: Personal Loan Scheme for Small Medium Enterprises (SMEs.)</li>
+										<li>GLS: Group Loan Scheme</li>
+										<li>PLS: Project Loan Scheme.</li>
 
-            <li>
-              <div class="statistics-item mb-30 wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.4s">
-                <div class="round-icon"></div>
-                <div class="content">
-                  <p>We offer a wide range of flexible and high yielding investment packages to assist individuals; build, manage and sustain wealth so as to maintain a lifestyle they are use to or attain that which they aspire.</p>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="statistics-item mb-30 wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.4s">
-                <div class="round-icon"></div>
-                <div class="content">
-                  <p>These solid investment plans come with unbeatable returns and they are sure to keep you on track, ensuring that you achieve your goals which could be that dream house, a Masters / PHD degree programme, a much needed family holiday and / or quality education for your wards among others.</p>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div class="statistics-item mb-30 wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.4s">
-                <div class="round-icon"></div>
-                <div class="content">
-                  <p>Do you want to go beyond the regular savings whilst enjoying the best interest rates in the financial market, talk to Prosperis Fund Limited today!</p>
-                </div>
-              </div>
-            </li>
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="card w3l-acd">
+							<div class="card-header wl3_head" id="headingThree">
+								<h5 class="mb-0">
+									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+										<span class="fa fa-check mr-2" aria-hidden="true"></span>
+										LOAN REQUIREMENT:
+									</button>
+								</h5>
+							</div>
+							<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+								<div class="card-body">
+									<p>
+										<li>1. 2 passport photograph</li>
+										<li>2. Nepa bill</li>
+										<li>3. Any valid identity card: voters card, international passport, driving licence.</li>
+										<li>4. 1 Guarantor.</li>
+										<li>Visit any of our offices nearest to you, fill a loan form and tick your choice from our list of loan that suits you.</li>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-6 details-w3l">
+					<img src="images/g4.jpg" class="img-fluid" alt="" />
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- //details -->
+	<!-- stats -->
+	<section class="stats pb-5">
+		<div class="container py-md-4 mt-md-3">
+			<div class="row inner_w3l_agile_grids-1">
+				<div class="col-lg-3 col-sm-6 w3layouts_stats_left w3_counter_grid">
+					<p class="counter">2018</p>
+					<h3>Year of Foundation</h3>
+				</div>
+				<div class="col-lg-3 col-sm-6 w3layouts_stats_left w3_counter_grid1">
+					<p class="counter">810</p>
+					<h3>Issued Loans</h3>
+				</div>
+				<div class="col-lg-3 col-sm-6 w3layouts_stats_left w3_counter_grid2">
+					<p class="counter">156</p>
+					<h3>Business Partners</h3>
+				</div>
+				<div class="col-lg-3 col-sm-6 w3layouts_stats_left w3_counter_grid2">
+					<p class="counter">15789</p>
+					<h3>Happy Clients</h3>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- //stats -->
 
 
-          </ul>
-        </div>
-      </div>
-      <div class="col-lg-4 order-lg-2 order-1">
-        <div class="statistics-thumb">
-          <img src="assets/images/elements/statistics.png" alt="image">
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- statistics-section end -->
-<!-- commission-section start -->
-<section class="commission-section mine-r mine-p section-bg">
-  <div class="container">
-    <div class="row justify-content-between">
-      <div class="col-lg-4">
-        <div class="commission-thumb wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.3s">
-          <img src="assets/images/elements/commission.png" alt="image" class="main-img">
-        </div>
-      </div>
-      <div class="col-lg-8">
-        <div class="commission-content wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.4s">
-          <h2 class="title">Become a Partner</h2>
-          <p>Asides providing Loans, Leases, Investments and other financial products to individual and corporate markets, Prosperis Fund Limited is gravitating towards making an impact in other industries including but not limited to; Health, Education, Lifestyle, Real Estate and Tourism.</p>
-          <ul class="cmn-list">
-            <li>To effectively achieve this, there is a need to work with Corporate Organizations (Partners) in these industries whose insight and support would help in our drive to provide affordable financing options to individuals and organizations in these industries.</li>
-            <li>Prosperis  Partnership Program is for organizations aiming to become market leaders in their industries while achieving business growth and profitability.</li>
-            <li>Prosperis Fund Limited will provide these organizations with funding assistance needed to help them build, run and grow a profitable business whilst adding value to the economy at large.</li>
-            <li>We desire an encompassing partnership with no limitations. Do you have intriguing ideas or product(s) we can partner on? There is really no better time than now to become a Prosperis Partner! </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- commission-section end -->
+	<!-- clients --
+	<section class="features py-md-5">
+		<!--<div class="container py-md-4 mt-md-3">-->
+		<!--	<h3 class="heading-agileinfo text-white">Our Awesome Testimonials <span class="text-white">Speed Up the Loan Process</span></h3>-->
+		<!--	<span class="w3-line black"></span>-->
+		<!--	<div class="row about-main pt-5 mt-md-5">-->
+		<!--		<div class="col-lg-6 about-right">-->
+					<!-- stats -->
+		<!--			<div class="stats1">-->
+		<!--				<div class="row stats_inner">-->
+		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+		<!--						<img src="images/logo1.jpg" alt="logo1" class=" img-fluid">-->
+		<!--					</div>-->
+		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+		<!--						<img src="images/logo2.jpg" alt="logo1" class=" img-fluid">-->
+		<!--					</div>-->
+		<!--				</div>-->
+		<!--				<div class="row stats_inner top-st">-->
+		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+		<!--						<img src="images/logo3.jpg" alt="logo1" class=" img-fluid">-->
+		<!--					</div>-->
+		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+		<!--						<img src="images/logo1.jpg" alt="logo1" class=" img-fluid">-->
+		<!--					</div>-->
 
-<!-- testimonial-section start -->
-<section class="testimonial-section pt-150 pb-100 mine-r section-bg-two">
-  <div class="map-shape"><img src="assets/images/elements/map.png" alt="image"></div>
-  <div class="container">
-    <div class="row justify-content-between align-items-center">
-     <div class="col-xl-6 col-lg-5">
-      <div class="app-thumb wow fadeIn" data-wow-duration="0.3" data-wow-delay="0.5s">
-        <img src="assets/images/elements/app-img.png" alt="image" class="main-image">
-        <img src="assets/images/elements/app-left-img.png" alt="image" class="left-image">
-        <img src="assets/images/elements/app-right-img.png" alt="image" class="right-image">
-      </div>
-    </div>
-    <div class="col-lg-6">
-      <div class="testimonial-content-slider  wow fadeIn" data-wow-duration="0.5" data-wow-delay="0.3s">
-        <div class="testimonial-content-item">
-          <p>Investing is about reaching set financial goals be it long term or short. Nonetheless, with the unending expenses incurred on a daily basis, planning towards a comfortable future goal may seem like a daunting task.</p>
-          <div class="client-details">
-            <h4 class="name">Prosperis Fund Limited</h4>
-            <!-- <span class="designation">businessman</span> -->
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</section>
-<!-- testimonial-section end -->
-<!-- contact-section start -->
-<section class="contact-section pt-120 pb-70" id="contact-segment" >
-  <div class="container">
-    <div class="row ">
-      <div class="col-lg-12">
-        <div class="inner-hero-content">
-          <h2 class="title text-center">contact</h2><br>            
-        </div>
-      </div>
-    </div>
-    <div class="row mb-none-30">
-      <div class="col-lg-4 col-md-6">
-        <div class="contact-info-single mb-30" style="padding-top:30px!important;" >
-          <i class="flaticon-maps-and-location" style="font-size:40px;color: #fff;" ></i>
-          <h3 class="title">office address</h3>
-          <p>40B AWORI ROAD, DOLPHIN ESTATE, IKOYI, LAGOS NIGERIA.</p>
-        </div>
-      </div><!-- contact-info-single end -->
-      <div class="col-lg-4 col-md-6">
-        <div class="contact-info-single mb-30" style="padding-top:30px!important;">
-         <i class="flaticon-mails" style="font-size:40px;color: #fff;" ></i>
-         <h3 class="title">Email</h3>
-         <a href="mailto:info@prosperisfundltd.com">info@prosperisfundltd.com</a><br><br>
-       </div>
-     </div><!-- contact-info-single end -->
-     <div class="col-lg-4 col-md-6">
-      <div class="contact-info-single mb-30" style="padding-top:30px!important;">
-       <i class="flaticon-phone" style="font-size:40px;color: #fff;" ></i>
-       <h3 class="title">Contact Phone</h3>
-       <a href="tel:+2349038758546">(+234) 903 875 8546</a>
-       <a href="tel:+2348100479847">(+234) 810 047 9847</a>
-     </div>
-   </div><!-- contact-info-single end -->
- </div>
+		<!--				</div>-->
+		<!--				<div class="row stats_inner top-st">-->
+		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+		<!--						<img src="images/logo1.jpg" alt="logo1" class=" img-fluid">-->
+		<!--					</div>-->
+		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+		<!--						<img src="images/logo3.jpg" alt="logo1" class=" img-fluid">-->
+		<!--					</div>-->
 
- <div class="row justify-content-between pt-150">
-  <div class="col-lg-5">
-    <div class="contact-thumb"><img src="assets/images/elements/contact.png" alt="image"></div>
-  </div>
-  <div class="col-lg-6">
-    <div class="contact-fom-area">
-      <span class="sub-title">welcome to  Prosperis Fund Limited </span>
-      <h3 class="title">Say Hello!</h3>
-      <form class="contact-form">
-        <div class="form-row">
-          <div class="col-lg-6 form-group">
-            <input type="text" name="contact-name" id="contact-name" placeholder="Name">
-          </div>
-          <div class="col-lg-6 form-group">
-            <input type="email" name="contact-email" id="contact-email" placeholder="Email Address">
-          </div>
-          <div class="col-lg-12 form-group">
-            <textarea name="contact-message" id="contact-message" placeholder="Write Your contact"></textarea>
-          </div>
-          <div class="col-lg-12">
-            <button type="submit" class="cmn-btn">send message</button>
-          </div>
-        </div>
-      </form>
-    </div>
-  </div>
-</div>
-</div>
-</section>
-<!-- contact-section end -->
-<!-- map-section start -->
- <!--  <div class="map-section">
-    <div id="map"></div>
-  </div> -->
-  <!-- map-section end -->
-  <!-- contact us section here ended -->
-  <!-- footer-section start -->
-  <footer class="footer-section bg_img" data-background="assets/images/elements/footer-shape.png">
-    <div class="man-left">
-      <img src="assets/images/elements/footer-left-man.png" alt="image">
-      <div class="coin"><img src="assets/images/elements/coin.png" alt="image"></div>
-    </div>
-    <div class="dot-left"><img src="assets/images/elements/footer-left-dot.png" alt="image"></div>
-    <div class="man-right"><img src="assets/images/elements/footer-right-man.png" alt=""></div>
-    <div class="footer-top">
-      <div class="container">
-        <div class="row mb-none-30">
-          <div class="col-lg-12 col-sm-12 order-lg-1 order-sm-1">
+		<!--				</div>-->
+		<!--			</div>-->
+					<!-- //stats -->
 
-            <img src="" />
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <p>Copyright© Prosperis Fund Limited  <?php echo date('Y'); ?>. | All rights reserved</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
-  <!-- footer-section end -->  
-</div>
-<script src="assets/js/vendor/jquery-3.3.1.min.js"></script>
-<script src="assets/js/vendor/jquery-migrate-3.0.0.js"></script>
-<script src="assets/js/vendor/bootstrap.min.js"></script>
-<script src="assets/js/vendor/slick.min.js"></script>
-<script src="assets/js/vendor/wow.min.js"></script>
-<script src="assets/js/vendor/jquery.countdown.min.js"></script>
-<script src="assets/js/vendor/menu-spy.min.js"></script>
-<script src="assets/js/vendor/jquery.easing.min.js"></script>
-<script src="assets/js/contact.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
-<script src="assets/js/main.js"></script>
+		<!--		</div>-->
+		<!--		<div class="col-lg-6 about-left">-->
+					<!-- testimonials -->
+		<!--			<div class="w3_agile-section testimonials text-center" id="testimonials">-->
+		<!--				<div class=" w3ls-team-info test-bg">-->
+		<!--					<div class="testi-left">-->
+		<!--						<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">-->
+		<!--							<ol class="carousel-indicators">-->
+		<!--								<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>-->
+		<!--								<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>-->
+		<!--								<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>-->
+		<!--							</ol>-->
+		<!--							<div class="carousel-inner">-->
+		<!--								<div class="carousel-item active">-->
+		<!--									<div class="row thumbnail adjust1">-->
+		<!--										<div class="col-md-3 col-sm-3">-->
+		<!--											<img class="media-object img-fluid" src="images/ts1.jpg" alt="" />-->
+		<!--										</div>-->
+		<!--										<div class="col-md-9 col-sm-9">-->
+		<!--											<div class="caption testi-text">-->
+		<!--												<h4>Jane Wilson,</h4>-->
+		<!--												<h5>Worker</h5>-->
+		<!--											</div>-->
+		<!--										</div>-->
+		<!--										<p class="mt-3">-->
+		<!--											<span class="fa fa-quote-left pr-3" aria-hidden="true"></span>Donec euismod consequat mi, pretium consequat mi, pretium-->
+		<!--											volutpat nibh tempor volutpat nibh tempor nec.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ullamcorper mauris. Vivamus fringilla venenatis enim, non pulvinar turpis euismod eu </p>-->
+		<!--									</div>-->
+		<!--								</div>-->
+		<!--								<div class="carousel-item">-->
+		<!--									<div class="row thumbnail adjust1">-->
+		<!--										<div class="col-md-3 col-sm-3">-->
+		<!--											<img class="media-object img-fluid" src="images/ts2.jpg" alt="" />-->
+		<!--										</div>-->
+		<!--										<div class="col-md-9 col-sm-9">-->
+		<!--											<div class="caption testi-text">-->
+		<!--												<h4>Jane Wilson</h4>-->
+		<!--												<h5>Worker</h5>-->
+		<!--											</div>-->
+		<!--										</div>-->
+		<!--										<p class="mt-3">-->
+		<!--											<span class="fa fa-quote-left pr-3" aria-hidden="true"></span>Donec euismod consequat mi, pretium consequat mi, pretium-->
+		<!--											volutpat nibh tempor volutpat nibh tempor nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ullamcorper mauris. Vivamus fringilla venenatis enim, non pulvinar turpis euismod eu</p>-->
+		<!--									</div>-->
+		<!--								</div>-->
+		<!--								<div class="carousel-item">-->
+		<!--									<div class="row thumbnail adjust1">-->
+		<!--										<div class="col-md-3 col-sm-3">-->
+		<!--											<img class="media-object img-fluid" src="images/ts3.jpg" alt="" />-->
+		<!--										</div>-->
+		<!--										<div class="col-md-9 col-sm-9">-->
+		<!--											<div class="caption testi-text">-->
+		<!--												<h4>Jane Wilson</h4>-->
+		<!--												<h5>Worker</h5>-->
+		<!--											</div>-->
+		<!--										</div>-->
+		<!--										<p class="mt-3">-->
+		<!--											<span class="fa fa-quote-left pr-3" aria-hidden="true"></span>Donec euismod consequat mi, pretium consequat mi, pretium-->
+		<!--											volutpat nibh tempor volutpat nibh tempor nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ullamcorper mauris. Vivamus fringilla venenatis enim, non pulvinar turpis euismod eu</p>-->
+		<!--									</div>-->
+		<!--								</div>-->
+		<!--							</div>-->
+		<!--						</div>-->
+		<!--					</div>-->
+		<!--				</div>-->
+		<!--			</div>-->
+					<!-- //testimonials-->
+		<!--		</div>-->
+		<!--	</div>-->
+		<!--</div>--
+	</section>
+	<!-- clients -->
+
+	<!-- news -->
+	<!-- <section class="wthree-row w3-about py-5">
+		<div class="container py-md-4 mt-md-3">
+			<h3 class="heading-agileinfo">Latest News from Loan Company<span>Speed Up the Loan Process</span></h3>
+			<span class="w3-line black"></span>
+			<div class="card-deck mt-md-5 pt-5">
+				<div class="card">
+					<img src="images/g7.jpg" class="img-fluid" alt="Card image cap">
+					<div class="card-body w3ls-card">
+						<h5 class="card-title">Smart Moving Tips</h5>
+						<p class="card-text mb-3 ">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+					</div>
+					<div class="card-footer">
+						<small class="text-muted">Last updated on May 18, 2018</small>
+					</div>
+				</div>
+				<div class="card">
+					<img src="images/g6.jpg" class="img-fluid" alt="Card image cap">
+					<div class="card-body w3ls-card">
+						<h5 class="card-title">A Big Time Saver</h5>
+						<p class="card-text mb-3 ">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+					</div>
+					<div class="card-footer">
+						<small class="text-muted">Last updated on May 18, 2018</small>
+					</div>
+				</div>
+				<div class="card">
+					<img src="images/g8.jpg" class="img-fluid" alt="Card image cap">
+					<div class="card-body w3ls-card">
+						<h5 class="card-title">Is Now the Time to Fix?</h5>
+						<p class="card-text mb-3">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+					</div>
+					<div class="card-footer">
+						<small class="text-muted">Last updated on May 18, 2018</small>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!-- //news -->
+	<!--footer-->
+	<footer>
+		<?php
+		include('includes/footer.php');
+		?>
+	</footer>
+	<!----
+	<div class="copyright py-3">
+		<div class="container">
+			<div class="copyrighttop">
+				<ul>
+					<li>
+						<h4>Follow us on:</h4>
+					</li>
+					<li>
+						<a class="facebook" href="#">
+							<i class="fab fa-facebook-f"></i>
+						</a>
+					</li>
+					<li>
+						<a class="facebook" href="#">
+							<i class="fab fa-twitter"></i>
+						</a>
+					</li>
+					<li>
+						<a class="facebook" href="#">
+							<i class="fab fa-google-plus-g"></i>
+						</a>
+					</li>
+					<li>
+						<a class="facebook" href="#">
+							<i class="fab fa-pinterest-p"></i>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="copyrightbottom">
+				<p>© 2018 Home Loan. All Rights Reserved | Design by
+					<a href="http://w3layouts.com/">W3layouts</a>
+				</p>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	<!-- Modal --
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title">Home Loan</h4>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div class="agileits-w3layouts-info">
+						<img src="images/g6.jpg" class="img-fluid" alt="" />
+						<p>Duis venenatis, turpis eu bibendum porttitor, sapien quam ultricies tellus, ac rhoncus risus odio eget nunc. Pellentesque ac fermentum diam. Integer eu facilisis nunc, a iaculis felis. Pellentesque pellentesque tempor enim, in dapibus turpis porttitor quis. </p>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-primary">Save changes</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<!-- //Modal -->
+	<!-- js-->
+	<script src="js/jquery-2.2.3.min.js"></script>
+	<!-- js-->
+	<!-- Banner Responsiveslides -->
+	<script src="js/responsiveslides.min.js"></script>
+	<script>
+		// You can also use "$(window).load(function() {"
+		$(function() {
+			// Slideshow 4
+			$("#slider3").responsiveSlides({
+				auto: true,
+				pager: true,
+				nav: false,
+				speed: 500,
+				namespace: "callbacks",
+				before: function() {
+					$('.events').append("<li>before event fired.</li>");
+				},
+				after: function() {
+					$('.events').append("<li>after event fired.</li>");
+				}
+			});
+
+		});
+	</script>
+	<!-- // Banner Responsiveslides -->
+	<!-- stats -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<script src="js/jquery.countup.js"></script>
+	<script>
+		$('.counter').countUp();
+	</script>
+	<!-- //stats -->
+	<!--pop-up-box -->
+	<script src="js/jquery.magnific-popup.js"></script>
+	<script>
+		$(document).ready(function() {
+			$('.popup-with-zoom-anim').magnificPopup({
+				type: 'inline',
+				fixedContentPos: false,
+				fixedBgPos: true,
+				overflowY: 'auto',
+				closeBtnInside: true,
+				preloader: false,
+				midClick: true,
+				removalDelay: 300,
+				mainClass: 'my-mfp-zoom-in'
+			});
+		});
+	</script>
+	<!-- //pop-up-box -->
+	<!-- Bootstrap Core JavaScript -->
+	<script src="js/bootstrap.js ">
+	</script>
+	<!-- //Bootstrap Core JavaScript -->
 </body>
-</html>
 
-<!-- <div class="col-lg-6">
-          <div class="profit-thumb">
-            <img src="assets/images/elements/profit-plan.png" alt="image">
-          </div>
-        </div> -->
+</html>
