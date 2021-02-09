@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="zxx">
 
 <head>
-    <title>Home Loan a Banking Category Flat Bootstrap Responsive Website Template | About :: w3layouts</title>
+    <title>Prosperis Fund Limited</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <meta name="keywords" content="Home Loan Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -59,7 +59,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
                     <h3>EMPOWERMENT PACKAGE</h3>
                     <h4>
                     This package is for all transporters that want to break free from the tentacles of higher purchase dealers.
-At Unicorn Capital Investment Ltd, we empower transporters with their dream mini bus, tricycle(keke) and motorcycle(okada) with flexible and convenience repayment plan with no interest.
+At Prosperis Fund Limited, we empower transporters with their dream mini bus, tricycle(keke) and motorcycle(okada) with flexible and convenience repayment plan with no interest.
  Say NO to shylock dealers, Say NO to higher purchase dealers. Be your own OGA today. Visit any of our offices nearest to you to apply.
 
                     </h4>
@@ -223,8 +223,7 @@ At Unicorn Capital Investment Ltd, we empower transporters with their dream mini
                 </ul>
             </div>
             <div class="copyrightbottom">
-                <p>© 2018 Home Loan. All Rights Reserved | Design by
-                    <a href="http://w3layouts.com/">W3layouts</a>
+                <p>© <?php echo date('Y'); ?> Prosperis Fund Limited. All Rights Reserved 
                 </p>
             </div>
             <div class="clearfix"></div>

@@ -8,11 +8,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="zxx">
 
 <head>
-	<title>Home | Unicorn capital investments limited</title>
+	<title>Home | Prosperis Fund Limited</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<meta name="keywords" content="Unicorn capital investments, cryptocurrency trading, get quick soft Loans, get 40%ROI in 20 days, empowerment package, invest and get returns quick, 
-procure assets with our asset managment, exportation of cash crops" />
+	procure assets with our asset managment, exportation of cash crops" />
 	<script>
 		addEventListener("load", function() {
 			setTimeout(hideURLbar, 0);
@@ -49,190 +49,231 @@ procure assets with our asset managment, exportation of cash crops" />
 	<section class="banner-1">
 	</section>
 	<!-- //banner -->
-	<!-- /services -->
-	<!-- <section class="what_you w3-about py-5">
-		<div class="container py-md-4 mt-md-3">
-			<h2 class="heading-agileinfo">Services <span>Speed Up The Loan Process</span></h2>
-			<span class="w3-line black"></span>
-			<div class="row about-info-grids mt-md-5 pt-5">
-				<div class="col-md-4 about-info about-info1">
-					<i class="far fa-gem"></i>
-					<h4>Credit Service</h4>
-					<div class="h4-underline"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
-				</div>
-				<div class="col-md-4 about-info about-info2">
-					<i class="fas fa-book"></i>
-					<h4>Buying a home</h4>
-					<div class="h4-underline"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
-				</div>
-				<div class="col-md-4 about-info about-info3">
-					<i class="fab fa-codepen"></i>
-					<h4>Refinancing</h4>
-					<div class="h4-underline"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
-				</div>
-			</div>
-			<div class="bord"></div>
-			<div class="row about-info-grids">
-				<div class="col-md-4 about-info about-info1">
-					<i class="fas fa-university"></i>
-					<h4>Buying a home</h4>
-					<div class="h4-underline"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
-				</div>
-				<div class="col-md-4 about-info about-info2">
-					<i class="fas fa-folder"></i>
-					<h4>Credit Service</h4>
-					<div class="h4-underline"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
-				</div>
-				<div class="col-md-4 about-info about-info3">
-					<i class="fas fa-graduation-cap"></i>
-					<h4>Refinancing</h4>
-					<div class="h4-underline"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
-				</div>
-			</div>
-		</div>
-	</section> -->
-
 	<!-- //services -->
 	<!-- news -->
+	<style type="text/css">
+		
+	</style>
 	<section class="wthree-row w3-about py-5">
 		<div class="container py-md-4 mt-md-3">
 			<h3 class="heading-agileinfo">Services Overview <span>Speed Up The Loan Process</span></h3>
 			<span class="w3-line black"></span>
+
+			
 			<div class="card-deck mt-md-5 pt-5">
-				<div class="card">
-					<img src="images/bitcoin.png" width="300" class="img-fluid" alt="Card image cap">
-					<div class="card-body w3ls-card">
-						<h5 class="card-title">cryptocurrency trading</h5>
-						<p class="card-text mb-3 ">We trade in cryptocurrencies to proffer solutions in building the working capital of investors.</p>
-					</div>
 
-				</div>
-				<div class="card">
-					<img src="images/g6.jpg" class="img-fluid" alt="Card image cap">
-					<div class="card-body w3ls-card">
-						<h5 class="card-title">Granting of soft loans</h5>
-						<p class="card-text mb-3 ">A short description of not more than 160 character.</p>
-					</div>
 
-				</div>
-				<div class="card">
-					<img src="images/bitcoin.jpeg" style="height: 240px;" class="img-fluid" alt="Card image cap">
-					<div class="card-body w3ls-card">
-						<h5 class="card-title">Empowerment program </h5>
-						<p class="card-text mb-3">A short description of not more than 160 character.</p>
-					</div>
-
-				</div>
-				<div class="card-deck mt-md-5 pt-5">
-					<div class="card">
-						<img src="images/invest.png" style="height: 270px;" class="img-fluid" alt="Card image cap">
-						<div class="card-body w3ls-card">
-							<h5 class="card-title">Investment Advisory</h5>
-							<p class="card-text mb-3 ">A short description of not more than 160 character.</p>
+				<!-- card test -->
+				<div class="row">
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox">
+							<div class="service-icon">
+								<img src="img/imagestrans.jpeg"  class="img-fluid" alt="Card image cap">
+							</div>
+							<h3 class="title">Asset Finance</h3>
+							<p class="description">Financing of long term assets and equipment for MSMEs. Examples of assets include, motor vehicles, tricycle(Keke), motorcycles(okada),
+							generators, freezer, farm machinery. E.t.c.</p>
 						</div>
-
 					</div>
-					<div class="card">
-						<img src="images/export.jpeg" class="img-fluid" alt="Card image cap">
-						<div class="card-body w3ls-card">
-							<h5 class="card-title">Exportation of cash crops </h5>
-							<p class="card-text mb-3 ">Exportation of cash crops such as yam, vegetables, cassava, kolanut, cocoa,cashew nut, charcoal etc</p>
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox red">
+							<div class="service-icon">
+								<img src="images/g6.jpg" class="img-fluid" alt="Card image cap">
+							</div>
+							<h3 class="title">LPO Financing</h3>
+							<p class="description">Financing for businesses that require funds to execute LPOs, Work Orders and Contracts from reputable companies.</p>
 						</div>
-
 					</div>
-					<div class="card">
-						<img src="images/g6.jpg" class="img-fluid" alt="Card image cap">
-						<div class="card-body w3ls-card">
-							<h5 class="card-title">Exportation of processed foods </h5>
-							<p class="card-text mb-3 ">Exportation of processed food items such yam flour, stock fish(opkoroko), snail etc</p>
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox blue">
+							<div class="service-icon">
+								<img src="img/invoice financing.jpeg" class="img-fluid" alt="Card image cap">
+							</div>
+							<h3 class="title">Invoice Finance </h3>
+							<p class="description">Financing to qualified businesses who are in receipt of invoices that are due for payments from its suppliers.</p>
 						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox">
+							<div class="service-icon">
+								<img src="img/images (19).jpeg"  class="img-fluid" alt="Card image cap">
+							</div>
+							<h3 class="title">Oil and Gas Services</h3>
+							<p class="description">A short description of not more than 160 character. </p>
+						</div>
+					</div>
 
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox">
+							<div class="service-icon">
+								<img src="img/relchnge.jpeg" class="img-fluid" alt="Card image cap">
+							</div>
+							<h3 class="title">Bureau De Change</h3>
+							<p class="description">A short description of not more than 160 character.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox red">
+							<div class="service-icon">
+								<img src="img/projectprocure.png" class="img-fluid" alt="Card image cap">
+							</div>
+							<h3 class="title">Projects & Procurements </h3>
+							<p class="description">A short description of not more than 160 character.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox blue">
+							<div class="service-icon">
+								<img src="img/images (25).jpeg" class="img-fluid" alt="Card image cap">
+							</div>
+							<h3 class="title">Shipping & Marine Services </h3>
+							<p class="description">A short description of not more than 160 character.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox">
+							<div class="service-icon">
+								<img src="img/imagesCo.jpeg"  class="img-fluid" alt="Card image cap">
+							</div>
+						<h3 class="title">Agro Commodities & Exports</h3>
+							<p class="description">A short description of not more than 160 character. </p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox">
+							<div class="service-icon">
+								<img src="img/minig and mineral.jpeg" class="img-fluid" alt="Card image cap">
+							</div>
+							<h3 class="title">Mining & Solid Minerals</h3>
+							<p class="description">A short description of not more than 160 character.</p>
+						</div>
+					</div>
+					
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox blue">
+							<div class="service-icon">
+								<img src="img/bitu.jpeg" class="img-fluid" alt="Card image cap">
+							</div>
+							<h3 class="title">Bitumen </h3>
+							<p class="description">A short description of not more than 160 character.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox">
+							<div class="service-icon">
+								<img src="img/coal.jpeg"  class="img-fluid" alt="Card image cap">
+							</div>
+						<h3 class="title">Coal</h3>
+							<p class="description">A short description of not more than 160 character. </p>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox red">
+							<div class="service-icon">
+								<img src="img/gold.jpeg" class="img-fluid" alt="Card image cap">
+							</div>
+							<h3 class="title">Gold </h3>
+							<p class="description">A short description of not more than 160 character.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox blue">
+							<div class="service-icon">
+								<img src="img/ironore.jpeg" class="img-fluid" alt="Card image cap">
+							</div>
+							<h3 class="title">Iron ore </h3>
+							<p class="description">A short description of not more than 160 character.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 mag">
+						<div class="serviceBox">
+							<div class="service-icon">
+								<img src="img/leadAndZinc.jpeg"  class="img-fluid" alt="Card image cap">
+							</div>
+						<h3 class="title">Lead and zinc </h3>
+							<p class="description">A short description of not more than 160 character. </p>
+						</div>
 					</div>
 				</div>
+				<!-- card test ended -->
 			</div>
-	</section>
-	<!-- //news -->
-	<!--footer-->
-	<footer>
-		<?php
-		include('includes/footer.php');
-		?>
-	</footer>
-	<!---->
-	<div class="copyright py-3">
-		<div class="container">
-			<div class="copyrighttop">
-				<ul>
-					<li>
-						<h4>Follow us on:</h4>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-facebook-f"></i>
-						</a>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-twitter"></i>
-						</a>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-google-plus-g"></i>
-						</a>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-pinterest-p"></i>
-						</a>
-					</li>
-				</ul>
+		</section>
+		<!-- //news -->
+		<!--footer-->
+		<footer>
+			<?php
+			include('includes/footer.php');
+			?>
+		</footer>
+		<!---->
+		<div class="copyright py-3">
+			<div class="container">
+				<div class="copyrighttop">
+					<ul>
+						<li>
+							<h4>Follow us on:</h4>
+						</li>
+						<li>
+							<a class="facebook" href="#">
+								<i class="fab fa-facebook-f"></i>
+							</a>
+						</li>
+						<li>
+							<a class="facebook" href="#">
+								<i class="fab fa-twitter"></i>
+							</a>
+						</li>
+						<li>
+							<a class="facebook" href="#">
+								<i class="fab fa-google-plus-g"></i>
+							</a>
+						</li>
+						<li>
+							<a class="facebook" href="#">
+								<i class="fab fa-pinterest-p"></i>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="copyrightbottom">
+					<p>© <?php echo date('Y'); ?> Prosperis Fund Limited. All Rights Reserved 
+					</p>
+				</div>
+				<div class="clearfix"></div>
 			</div>
-			<div class="copyrightbottom">
-				<p>© 2018 Home Loan. All Rights Reserved | Design by
-					<a href="http://w3layouts.com/">W3layouts</a>
-				</p>
-			</div>
-			<div class="clearfix"></div>
 		</div>
-	</div>
-	<!-- Modal -->
-	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-		<div class="modal-dialog modal-dialog-centered" role="document">
-			<div class="modal-content">
-				<div class="modal-header">
-					<h4 class="modal-title">Home Loan</h4>
-					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-						<span aria-hidden="true">&times;</span>
-					</button>
-				</div>
-				<div class="modal-body">
-					<div class="agileits-w3layouts-info">
-						<img src="images/g6.jpg" class="img-fluid" alt="" />
-						<p>Duis venenatis, turpis eu bibendum porttitor, sapien quam ultricies tellus, ac rhoncus risus odio eget nunc. Pellentesque ac fermentum diam. Integer eu facilisis nunc, a iaculis felis. Pellentesque pellentesque tempor enim, in dapibus turpis porttitor quis. </p>
+		<!-- Modal -->
+		<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-centered" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h4 class="modal-title">Home Loan</h4>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						</button>
 					</div>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-					<button type="button" class="btn btn-primary">Save changes</button>
+					<div class="modal-body">
+						<div class="agileits-w3layouts-info">
+							<img src="images/g6.jpg" class="img-fluid" alt="" />
+							<p>Duis venenatis, turpis eu bibendum porttitor, sapien quam ultricies tellus, ac rhoncus risus odio eget nunc. Pellentesque ac fermentum diam. Integer eu facilisis nunc, a iaculis felis. Pellentesque pellentesque tempor enim, in dapibus turpis porttitor quis. </p>
+						</div>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Save changes</button>
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-	<!-- //Modal -->
-	<!-- js-->
-	<script src="js/jquery-2.2.3.min.js"></script>
-	<!-- js-->
-	<!-- Bootstrap Core JavaScript -->
-	<script src="js/bootstrap.js ">
-	</script>
-	<!-- //Bootstrap Core JavaScript -->
-</body>
+		<!-- //Modal -->
+		<!-- js-->
+		<script src="js/jquery-2.2.3.min.js"></script>
+		<!-- js-->
+		<!-- Bootstrap Core JavaScript -->
+		<script src="js/bootstrap.js ">
+		</script>
+		<!-- //Bootstrap Core JavaScript -->
+	</body>
 
-</html>
+	</html>

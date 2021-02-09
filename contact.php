@@ -1,13 +1,8 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <?php
 
-require_once "Mail.php"; // PEAR Mail package
-require_once ('Mail/mime.php'); // PEAR Mail_Mime packge
+// require_once "Mail.php"; // PEAR Mail package
+// require_once ('Mail/mime.php'); // PEAR Mail_Mime packge
 
  $name = $_POST['name']; // form field
  $email = $_POST['email']; // form field
@@ -15,9 +10,6 @@ require_once ('Mail/mime.php'); // PEAR Mail_Mime packge
  $subject = $_POST['subject']; // form field
  
  if ($_POST['submit']){
-
-
-
  $from = $email; //enter your email address
  $to = "contact@unicorncil.com"; //enter the email address of the contact your sending to
  $subject = "Contact Form"; // subject of your email
@@ -63,7 +55,7 @@ echo("<p>Message successfully sent!</p>");
 <html lang="zxx">
 
 <head>
-	<title>Home | Unicorn capital investments limited</title>
+	<title>Home | Prosperis Fund Limited</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<meta name="keywords" content="Unicorn capital investments, cryptocurrency trading, get quick soft Loans, get 40%ROI in 20 days, empowerment package, invest and get returns quick, 
@@ -101,8 +93,7 @@ procure assets with our asset managment, exportation of cash crops" />
 	</header>
 	<!-- //header -->
 	<!-- banner -->
-	<section class="banner-1">
-	</section>
+	<img src="img/contact.jpeg" class="banner-11">
 	<!-- //banner -->
 	<!--/contact-->
 	<section class="contact py-5">
@@ -169,8 +160,7 @@ procure assets with our asset managment, exportation of cash crops" />
 				</ul>
 			</div>
 			<div class="copyrightbottom">
-				<p>© 2018 Home Loan. All Rights Reserved | Design by
-					<a href="http://w3layouts.com/">W3layouts</a>
+				<p>© <?php echo date('Y'); ?> Prosperis Fund Limited. All Rights Reserved 
 				</p>
 			</div>
 			<div class="clearfix"></div>

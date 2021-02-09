@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="zxx">
 
 <head>
-    <title>Home | Unicorn capital investments limited</title>
+    <title>Home | Prosperis Fund Limited</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <meta name="keywords" content="Unicorn capital investments, cryptocurrency trading, get quick soft Loans, get 40%ROI in 20 days, empowerment package, invest and get returns quick, 
@@ -66,17 +66,6 @@ procure assets with our asset managment, exportation of cash crops" />
                         <img src="images/appliances.jpg" alt="" class="img-fluid">
                     </div>
                 </div>
-                <!-- <div class="col-lg-6 welcome-left">
-                    <h3>OUR MISSION: </h3>
-                    <p>Our Mission is to provide resourceful financing solutions to all our clients driven by a highly motivated and well-trained workforce. Our Value business model (VBM)
-                        is designed to ensure that we create value for our clients, improve our unique capabilities and play to our distinct strengths while working across the business value chain.
-                        <p>We strive to become a global leader in the provision of fresh market insights, enterprise capacity building, business solutions and support services to public, private organisations and Small Medium Enterprises (SMEs.)
-                        </p>
-                </div>
-                <div class="col-lg-6 welcome-right">
-                    <h3>OUR VISION: </h3>
-                    <p>Our Vision is to build and sustain a financial services firm that touches lives and transforms businesses. </p>
-                </div> -->
             </div>
         </div>
     </section>
@@ -220,8 +209,7 @@ procure assets with our asset managment, exportation of cash crops" />
                 </ul>
             </div>
             <div class="copyrightbottom">
-                <p>© 2018 Home Loan. All Rights Reserved | Design by
-                    <a href="http://w3layouts.com/">W3layouts</a>
+                <p>© <?php echo date('Y'); ?> Prosperis Fund Limited. All Rights Reserved 
                 </p>
             </div>
             <div class="clearfix"></div>

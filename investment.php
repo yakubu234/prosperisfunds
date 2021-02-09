@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="zxx">
 
 <head>
-    <title>Home Loan a Banking Category Flat Bootstrap Responsive Website Template | About :: w3layouts</title>
+    <title>Prosperis Fund Limited</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <meta name="keywords" content="Home Loan Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -250,8 +250,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
                 </ul>
             </div>
             <div class="copyrightbottom">
-                <p>© 2018 Home Loan. All Rights Reserved | Design by
-                    <a href="http://w3layouts.com/">W3layouts</a>
+                <p>© <?php echo date('Y'); ?> Prosperis Fund Limited. All Rights Reserved 
                 </p>
             </div>
             <div class="clearfix"></div>

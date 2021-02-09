@@ -10,12 +10,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="zxx">
 
 <head>
-<title>Home | Unicorn capital investments limited</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <meta name="keywords" content="Unicorn capital investments, cryptocurrency trading, get quick soft Loans, get 40%ROI in 20 days, empowerment package, invest and get returns quick, 
-procure assets with our asset managment, exportation of cash crops" />
-<script>
+	<title>Home | Prosperis Fund Limited</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<meta name="keywords" content="Unicorn capital investments, cryptocurrency trading, get quick soft Loans, get 40%ROI in 20 days, empowerment package, invest and get returns quick, 
+	procure assets with our asset managment, exportation of cash crops" />
+	<script>
 		addEventListener("load", function() {
 			setTimeout(hideURLbar, 0);
 		}, false);
@@ -32,8 +32,9 @@ procure assets with our asset managment, exportation of cash crops" />
 	<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
 	<!-- font-awesome icons -->
 	<link href="css/fontawesome-all.min.css" rel="stylesheet">
-	<!-- //Custom Theme files --
-	<!-- online fonts --
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<!-- //Custom Theme files -->
+	<!-- online fonts -->
 	<!-- titles -->
 	<link href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
 	<!-- body -->
@@ -56,33 +57,39 @@ procure assets with our asset managment, exportation of cash crops" />
 				<li>
 					<div class="slider-info bg1">
 						<div class="banner-text container">
-							<h4 class="movetxt text-left mb-3 agile-title text-capitalize">OUR VISION</h4>
-							<p class="text-white mb-3">to build and sustain a financial services firm that touches lives and transforms businesses.</p>
-							<a class="bt text-capitalize" href="about.php" role="button"> read more
-								<i class="fas fa-angle-double-right"></i>
-							</a>
+							<div style="background-color: rgba(0,0,0,0.5); width:auto;padding: 20px;" >
+								<h4 class="movetxt text-left mb-3 agile-title text-capitalize">OUR VISION</h4>
+								<p class="text-white mb-3">Dominate and own the SME banking space, progressively transform into a commercial bank by 2023.</p>
+								<a class="bt text-capitalize" href="about.php" role="button"> read more
+									<i class="fas fa-angle-double-right"></i>
+								</a>
+							</div>
 						</div>
 					</div>
 				</li>
 				<li>
 					<div class="slider-info bg2">
-						<div class="banner-text container">
-							<h4 class="movetxt text-left mb-3 agile-title text-capitalize">Mission Statement</h4>
-							<p class="text-white mb-3">providing resourceful financing solutions to all our clients driven by a highly motivated and well-trained workforce</p>
-							<a class="bt text-capitalize" href="about.php" role="button"> read more
-								<i class="fas fa-angle-double-right"></i>
-							</a>
+						<div class="banner-text container" >
+							<div style="background-color: rgba(0,0,0,0.5); width:auto;padding: 20px;" >
+								<h4 class="movetxt text-left mb-3 agile-title text-capitalize">Mission Statement</h4>
+								<p class="text-white mb-3">Provide superior options. Provide creative solutions. Deliver exceptional services, quick and responsive financial services to Individuals and Small & Medium scale businesses by leveraging on our people, technology and operational excellence.</p>
+								<a class="bt text-capitalize" href="about.php" role="button"> read more
+									<i class="fas fa-angle-double-right"></i>
+								</a>
+							</div>
 						</div>
 					</div>
 				</li>
 				<li>
 					<div class="slider-info bg3">
 						<div class="banner-text container">
-							<h4 class="movetxt text-left mb-3 agile-title text-capitalize">UNICORN CAPITAL INVESTMENT LTD </h4>
-							<p class="text-white mb-3">committed to delivering robust services and results with a focus of becoming a well-known global investment services firm.</p>
-							<a class="bt text-capitalize" href="about.html" role="button"> read more
-								<i class="fas fa-angle-double-right"></i>
-							</a>
+							<div style="background-color: rgba(0,0,0,0.5); width:auto;padding: 20px;" >
+								<h4 class="movetxt text-left mb-3 agile-title text-capitalize">Prosperis Fund Limited  </h4>
+								<p class="text-white mb-3">We operate as a specialized financial institution focused on providing funding solutions to our target client and facilitating their business transactions. we have had great results thus growing our client base which consists of investors from diverse places and backgrounds.</p>
+								<a class="bt text-capitalize" href="about.html" role="button"> read more
+									<i class="fas fa-angle-double-right"></i>
+								</a>
+							</div>
 						</div>
 					</div>
 				</li>
@@ -102,30 +109,35 @@ procure assets with our asset managment, exportation of cash crops" />
 			</h2>
 			<span class="w3-line black"></span>
 			<div class="row inner_w3l_agile_grids-1 mt-md-5 pt-4">
-				<div class="col-md-4 w3layouts_news_left_grid1">
-					<div class="new_top">
-						<i class="fa fa-btc"></i>
-						<h3 class="mb-3 mt-3">cryptocurrency trading</h3>
-						<p>We trade in cryptocurrencies to
-							proffer solutions in building the working
-							capital of investors</p>
+
+
+				<!-- card test -->
+				<div class="col-md-4 col-sm-6 mag">
+					<div class="serviceBox">
+						<div class="service-icon">
+							<img src="img/imagestrans.jpeg"  class="img-fluid" alt="Card image cap">
+						</div>
+						<h3 class="title">Asset Finance</h3>
+						<p class="description">Financing of long term assets and equipment for MSMEs. Examples of assets include, motor vehicles, tricycle(Keke), motorcycles(okada),
+						generators, freezer, farm machinery. E.t.c.</p>
 					</div>
 				</div>
-				<div class="col-md-4 w3layouts_news_left_grid2">
-					<div class="new_top">
-						<i class="fas fa-building"></i>
-						<h3 class="mb-3 mt-3">Granting of soft loans</h3>
-						<p>We offer soft loans to our customers with a flexible
-							interest rate that enable them pay back easily within 48 weeks
-						</p>
+				<div class="col-md-4 col-sm-6 mag">
+					<div class="serviceBox red">
+						<div class="service-icon">
+							<img src="images/g6.jpg" class="img-fluid" alt="Card image cap">
+						</div>
+						<h3 class="title">LPO Financing</h3>
+						<p class="description">Financing for businesses that require funds to execute LPOs, Work Orders and Contracts from reputable companies.</p>
 					</div>
 				</div>
-				<div class="col-md-4 w3layouts_news_left_grid3">
-					<div class="new_top">
-						<i class="fas fa-credit-card"></i>
-						<h3 class="mb-3 mt-3">Exportation</h3>
-						<p>Exportation of cash crops and processed food items such
-							as yam, yam flour, vegetables, cassava, stock fish etc.</p>
+				<div class="col-md-4 col-sm-6 mag">
+					<div class="serviceBox blue">
+						<div class="service-icon">
+							<img src="img/invoice financing.jpeg" class="img-fluid" alt="Card image cap">
+						</div>
+						<h3 class="title">Invoice Finance </h3>
+						<p class="description">Financing to qualified businesses who are in receipt of invoices that are due for payments from its suppliers.</p>
 					</div>
 				</div>
 			</div>
@@ -137,19 +149,37 @@ procure assets with our asset managment, exportation of cash crops" />
 	<section class="video-grid1">
 		<div class="demo-bg1">
 			<div class="pop-bg text-center position-relative py-5">
-				<div class="arrow-container animated fadeInDown">
-					<a href="#small-dialog1" class="arrow-2 popup-with-zoom-anim">
-						<i class="fa fa-play" aria-hidden="true"></i>
-					</a>
-					<div class="arrow-1 animated hinge infinite zoomIn"></div>
-				</div>
-				<!--  video-button-popup -->
-				<div id="small-dialog1" class="mfp-hide">
-					<div class="agileits_modal_body">
-						<iframe src="https://player.vimeo.com/video/83557847"></iframe>
+				
+				<div class="section-f col-sm-9" style="margin: 0px auto;">
+					<div class="section-content" >
+						<div>
+							<h2 style="text-align: center;color: #fff;">BECOME A PARTNER</h2>
+							<p style="text-align: center; color: #fff;">Asides providing Loans, Leases, Investments and other financial products to individual and corporate markets, Prosperis Fund Limited is gravitating towards making an impact in other industries including but not limited to; Health, Education, Lifestyle, Real Estate and Tourism. To effectively achieve this, there is a need to work with Corporate Organizations (Partners) in these industries whose insight and support would help in our drive to provide affordable financing options to individuals and organizations in these industries.</p>
+						</div>
+						<div></div>
+
+					</div>
+
+					<div class="row pad-v">
+						<div class="col-sm-4 ppp">
+							<i class="fas fa-unlink"></i><br><br>
+							<!-- <span>Seamless integration</span> -->
+							<small>Prosperis  Partnership Program is for organizations aiming to become market leaders in their industries while achieving business growth and profitability.</small>
+						</div>
+						<div class="col-sm-4 ppp">
+							<i class="fas fa-gem"></i><br><br>
+							<!-- <span>Seamless integration</span> -->
+							<small>Prosperis Fund Limited will provide these organizations with funding assistance needed to help them build, run and grow a profitable business whilst adding value to the economy at large.</small>
+						</div>
+						<div class="col-sm-4 ppp">
+							<i class="fab fa-servicestack"></i><br><br>
+							<!-- <span>Seamless integration</span> -->
+							<small>We desire an encompassing partnership with no limitations. Do you have intriguing ideas or product(s) we can partner on? There is really no better time than now to become a Prosperis Partner! </small>
+						</div>
 					</div>
 				</div>
-				<!-- // video-button-popup -->
+				<!--  -->
+
 			</div>
 		</div>
 	</section>
@@ -174,7 +204,8 @@ procure assets with our asset managment, exportation of cash crops" />
 							<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
 								<div class="card-body">
 									<p>
-										At Unicorn Capital investment Ltd, our interest rate is modified to suit our prospective clients for easy pay back within 48 weeks. Our loan ranges from 100,000(NGN) above. our charges rang is 18% down payment for loan: 15% insterest on loan : 2.5% on charges and insurance.
+										Prosperis Fund Limited offers quick, affordable and unrestricted loan facilities tailored to meet these needs and more.These collateral free lifestyle products come with affordable interest rates and are conveniently structured such that repayment is spread over a period of 10 months, taking the pressure associated with loan repayment off you. With our loan facilities there are so many possibilities!<br><br>
+										Need a loan to finance a new car, make home improvements or support your child's education? Get a loan of up to N4,000,000 within 14 working day
 									</p>
 								</div>
 							</div>
@@ -238,7 +269,7 @@ procure assets with our asset managment, exportation of cash crops" />
 					<h3>Year of Foundation</h3>
 				</div>
 				<div class="col-lg-3 col-sm-6 w3layouts_stats_left w3_counter_grid1">
-					<p class="counter">810</p>
+					<p class="counter">1810</p>
 					<h3>Issued Loans</h3>
 				</div>
 				<div class="col-lg-3 col-sm-6 w3layouts_stats_left w3_counter_grid2">
@@ -256,117 +287,117 @@ procure assets with our asset managment, exportation of cash crops" />
 
 
 	<!-- clients --
-	<section class="features py-md-5">
-		<!--<div class="container py-md-4 mt-md-3">-->
-		<!--	<h3 class="heading-agileinfo text-white">Our Awesome Testimonials <span class="text-white">Speed Up the Loan Process</span></h3>-->
-		<!--	<span class="w3-line black"></span>-->
-		<!--	<div class="row about-main pt-5 mt-md-5">-->
-		<!--		<div class="col-lg-6 about-right">-->
-					<!-- stats -->
-		<!--			<div class="stats1">-->
-		<!--				<div class="row stats_inner">-->
-		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
-		<!--						<img src="images/logo1.jpg" alt="logo1" class=" img-fluid">-->
-		<!--					</div>-->
-		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
-		<!--						<img src="images/logo2.jpg" alt="logo1" class=" img-fluid">-->
-		<!--					</div>-->
-		<!--				</div>-->
-		<!--				<div class="row stats_inner top-st">-->
-		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
-		<!--						<img src="images/logo3.jpg" alt="logo1" class=" img-fluid">-->
-		<!--					</div>-->
-		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
-		<!--						<img src="images/logo1.jpg" alt="logo1" class=" img-fluid">-->
-		<!--					</div>-->
+		<section class="features py-md-5"-->
+			<!--<div class="container py-md-4 mt-md-3">-->
+				<!--	<h3 class="heading-agileinfo text-white">Our Awesome Testimonials <span class="text-white">Speed Up the Loan Process</span></h3>-->
+				<!--	<span class="w3-line black"></span>-->
+				<!--	<div class="row about-main pt-5 mt-md-5">-->
+					<!--		<div class="col-lg-6 about-right">-->
+						<!-- stats -->
+						<!--			<div class="stats1">-->
+							<!--				<div class="row stats_inner">-->
+								<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+									<!--						<img src="images/logo1.jpg" alt="logo1" class=" img-fluid">-->
+									<!--					</div>-->
+									<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+										<!--						<img src="images/logo2.jpg" alt="logo1" class=" img-fluid">-->
+										<!--					</div>-->
+										<!--				</div>-->
+										<!--				<div class="row stats_inner top-st">-->
+											<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+												<!--						<img src="images/logo3.jpg" alt="logo1" class=" img-fluid">-->
+												<!--					</div>-->
+												<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+													<!--						<img src="images/logo1.jpg" alt="logo1" class=" img-fluid">-->
+													<!--					</div>-->
 
-		<!--				</div>-->
-		<!--				<div class="row stats_inner top-st">-->
-		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
-		<!--						<img src="images/logo1.jpg" alt="logo1" class=" img-fluid">-->
-		<!--					</div>-->
-		<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
-		<!--						<img src="images/logo3.jpg" alt="logo1" class=" img-fluid">-->
-		<!--					</div>-->
+													<!--				</div>-->
+													<!--				<div class="row stats_inner top-st">-->
+														<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+															<!--						<img src="images/logo1.jpg" alt="logo1" class=" img-fluid">-->
+															<!--					</div>-->
+															<!--					<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">-->
+																<!--						<img src="images/logo3.jpg" alt="logo1" class=" img-fluid">-->
+																<!--					</div>-->
 
-		<!--				</div>-->
-		<!--			</div>-->
-					<!-- //stats -->
+																<!--				</div>-->
+																<!--			</div>-->
+																<!-- //stats -->
 
-		<!--		</div>-->
-		<!--		<div class="col-lg-6 about-left">-->
-					<!-- testimonials -->
-		<!--			<div class="w3_agile-section testimonials text-center" id="testimonials">-->
-		<!--				<div class=" w3ls-team-info test-bg">-->
-		<!--					<div class="testi-left">-->
-		<!--						<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">-->
-		<!--							<ol class="carousel-indicators">-->
-		<!--								<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>-->
-		<!--								<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>-->
-		<!--								<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>-->
-		<!--							</ol>-->
-		<!--							<div class="carousel-inner">-->
-		<!--								<div class="carousel-item active">-->
-		<!--									<div class="row thumbnail adjust1">-->
-		<!--										<div class="col-md-3 col-sm-3">-->
-		<!--											<img class="media-object img-fluid" src="images/ts1.jpg" alt="" />-->
-		<!--										</div>-->
-		<!--										<div class="col-md-9 col-sm-9">-->
-		<!--											<div class="caption testi-text">-->
-		<!--												<h4>Jane Wilson,</h4>-->
-		<!--												<h5>Worker</h5>-->
-		<!--											</div>-->
-		<!--										</div>-->
-		<!--										<p class="mt-3">-->
-		<!--											<span class="fa fa-quote-left pr-3" aria-hidden="true"></span>Donec euismod consequat mi, pretium consequat mi, pretium-->
-		<!--											volutpat nibh tempor volutpat nibh tempor nec.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ullamcorper mauris. Vivamus fringilla venenatis enim, non pulvinar turpis euismod eu </p>-->
-		<!--									</div>-->
-		<!--								</div>-->
-		<!--								<div class="carousel-item">-->
-		<!--									<div class="row thumbnail adjust1">-->
-		<!--										<div class="col-md-3 col-sm-3">-->
-		<!--											<img class="media-object img-fluid" src="images/ts2.jpg" alt="" />-->
-		<!--										</div>-->
-		<!--										<div class="col-md-9 col-sm-9">-->
-		<!--											<div class="caption testi-text">-->
-		<!--												<h4>Jane Wilson</h4>-->
-		<!--												<h5>Worker</h5>-->
-		<!--											</div>-->
-		<!--										</div>-->
-		<!--										<p class="mt-3">-->
-		<!--											<span class="fa fa-quote-left pr-3" aria-hidden="true"></span>Donec euismod consequat mi, pretium consequat mi, pretium-->
-		<!--											volutpat nibh tempor volutpat nibh tempor nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ullamcorper mauris. Vivamus fringilla venenatis enim, non pulvinar turpis euismod eu</p>-->
-		<!--									</div>-->
-		<!--								</div>-->
-		<!--								<div class="carousel-item">-->
-		<!--									<div class="row thumbnail adjust1">-->
-		<!--										<div class="col-md-3 col-sm-3">-->
-		<!--											<img class="media-object img-fluid" src="images/ts3.jpg" alt="" />-->
-		<!--										</div>-->
-		<!--										<div class="col-md-9 col-sm-9">-->
-		<!--											<div class="caption testi-text">-->
-		<!--												<h4>Jane Wilson</h4>-->
-		<!--												<h5>Worker</h5>-->
-		<!--											</div>-->
-		<!--										</div>-->
-		<!--										<p class="mt-3">-->
-		<!--											<span class="fa fa-quote-left pr-3" aria-hidden="true"></span>Donec euismod consequat mi, pretium consequat mi, pretium-->
-		<!--											volutpat nibh tempor volutpat nibh tempor nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ullamcorper mauris. Vivamus fringilla venenatis enim, non pulvinar turpis euismod eu</p>-->
-		<!--									</div>-->
-		<!--								</div>-->
-		<!--							</div>-->
-		<!--						</div>-->
-		<!--					</div>-->
-		<!--				</div>-->
-		<!--			</div>-->
-					<!-- //testimonials-->
-		<!--		</div>-->
-		<!--	</div>-->
-		<!--</div>--
-	</section>
-	<!-- clients -->
+																<!--		</div>-->
+																<!--		<div class="col-lg-6 about-left">-->
+																	<!-- testimonials -->
+																	<!--			<div class="w3_agile-section testimonials text-center" id="testimonials">-->
+																		<!--				<div class=" w3ls-team-info test-bg">-->
+																			<!--					<div class="testi-left">-->
+																				<!--						<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">-->
+																					<!--							<ol class="carousel-indicators">-->
+																						<!--								<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>-->
+																						<!--								<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>-->
+																						<!--								<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>-->
+																						<!--							</ol>-->
+																						<!--							<div class="carousel-inner">-->
+																							<!--								<div class="carousel-item active">-->
+																								<!--									<div class="row thumbnail adjust1">-->
+																									<!--										<div class="col-md-3 col-sm-3">-->
+																										<!--											<img class="media-object img-fluid" src="images/ts1.jpg" alt="" />-->
+																										<!--										</div>-->
+																										<!--										<div class="col-md-9 col-sm-9">-->
+																											<!--											<div class="caption testi-text">-->
+																												<!--												<h4>Jane Wilson,</h4>-->
+																												<!--												<h5>Worker</h5>-->
+																												<!--											</div>-->
+																												<!--										</div>-->
+																												<!--										<p class="mt-3">-->
+																													<!--											<span class="fa fa-quote-left pr-3" aria-hidden="true"></span>Donec euismod consequat mi, pretium consequat mi, pretium-->
+																													<!--											volutpat nibh tempor volutpat nibh tempor nec.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ullamcorper mauris. Vivamus fringilla venenatis enim, non pulvinar turpis euismod eu </p>-->
+																													<!--									</div>-->
+																													<!--								</div>-->
+																													<!--								<div class="carousel-item">-->
+																														<!--									<div class="row thumbnail adjust1">-->
+																															<!--										<div class="col-md-3 col-sm-3">-->
+																																<!--											<img class="media-object img-fluid" src="images/ts2.jpg" alt="" />-->
+																																<!--										</div>-->
+																																<!--										<div class="col-md-9 col-sm-9">-->
+																																	<!--											<div class="caption testi-text">-->
+																																		<!--												<h4>Jane Wilson</h4>-->
+																																		<!--												<h5>Worker</h5>-->
+																																		<!--											</div>-->
+																																		<!--										</div>-->
+																																		<!--										<p class="mt-3">-->
+																																			<!--											<span class="fa fa-quote-left pr-3" aria-hidden="true"></span>Donec euismod consequat mi, pretium consequat mi, pretium-->
+																																			<!--											volutpat nibh tempor volutpat nibh tempor nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ullamcorper mauris. Vivamus fringilla venenatis enim, non pulvinar turpis euismod eu</p>-->
+																																			<!--									</div>-->
+																																			<!--								</div>-->
+																																			<!--								<div class="carousel-item">-->
+																																				<!--									<div class="row thumbnail adjust1">-->
+																																					<!--										<div class="col-md-3 col-sm-3">-->
+																																						<!--											<img class="media-object img-fluid" src="images/ts3.jpg" alt="" />-->
+																																						<!--										</div>-->
+																																						<!--										<div class="col-md-9 col-sm-9">-->
+																																							<!--											<div class="caption testi-text">-->
+																																								<!--												<h4>Jane Wilson</h4>-->
+																																								<!--												<h5>Worker</h5>-->
+																																								<!--											</div>-->
+																																								<!--										</div>-->
+																																								<!--										<p class="mt-3">-->
+																																									<!--											<span class="fa fa-quote-left pr-3" aria-hidden="true"></span>Donec euismod consequat mi, pretium consequat mi, pretium-->
+																																									<!--											volutpat nibh tempor volutpat nibh tempor nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ullamcorper mauris. Vivamus fringilla venenatis enim, non pulvinar turpis euismod eu</p>-->
+																																									<!--									</div>-->
+																																									<!--								</div>-->
+																																									<!--							</div>-->
+																																									<!--						</div>-->
+																																									<!--					</div>-->
+																																									<!--				</div>-->
+																																									<!--			</div>-->
+																																									<!-- //testimonials-->
+																																									<!--		</div>-->
+																																									<!--	</div>-->
+																																									<!--</div>-->
+																																									<!-- </section> -->
+																																									<!-- clients -->
 
-	<!-- news -->
+																																									<!-- news -->
 	<!-- <section class="wthree-row w3-about py-5">
 		<div class="container py-md-4 mt-md-3">
 			<h3 class="heading-agileinfo">Latest News from Loan Company<span>Speed Up the Loan Process</span></h3>
@@ -449,8 +480,8 @@ procure assets with our asset managment, exportation of cash crops" />
 			</div>
 			<div class="clearfix"></div>
 		</div>
-	</div>
-	<!-- Modal --
+	</div-->
+	<!-- Modal -->
 	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 		<div class="modal-dialog modal-dialog-centered" role="document">
 			<div class="modal-content">

@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="zxx">
 
 <head>
-	<title>Home | Unicorn capital investments limited</title>
+	<title>Home | Prosperis Fund Limited</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<meta name="keywords" content="Unicorn capital investments, cryptocurrency trading, get quick soft Loans, get 40%ROI in 20 days, empowerment package, invest and get returns quick, 
@@ -52,23 +52,20 @@ procure assets with our asset managment, exportation of cash crops" />
 	<!-- about -->
 	<section class="welcome py-5">
 		<div class="container py-md-4 mt-md-3">
-			<h2 class="heading-agileinfo">About Us <span>UNICORN CAPITAL INVESTMENT LTD</span></h2>
+			<h2 class="heading-agileinfo">About Us <span style="text-transform: uppercase;" >Prosperis Fund Limited</span></h2>
 			<span class="w3-line black"></span>
 			<div class="row about-tp mt-md-5 pt-5">
 				<div class="col-lg-6 welcome-left">
 					<h3>Welcome</h3>
-					<h4>UNICORN CAPITAL INVESTMENT LTD is committed to delivering robust services and results with a focus of becoming a well-known global investment services firm.
-						Unicorn capital Investment Ltd has been in operation since 2018 and has
-						been able to continue by dedication, commitment and agility drive.
+					<h4>Prosperis Fund Limited operate as a specialized financial institution focused on providing funding solutions to our target clientele and facilitating their business transactions.
+
+
 					</h4>
+					<p>Prosperis Fund Limited was licensed in July 2018 as a finance company with the mission of providing prompt financial services to Small & Medium Scale Enterprises (SMEs) as well as to middle level income earners. Despite the fact that the cryptocurrency sphere is nascent and highly volatile, we have had great results thus growing our client base which consists of investors from diverse places and backgrounds.</p>
 					<p>Presently we have thousands of investors that has benefitted from our investment platform by keeping to the terms and agreement of the company and have developed over
 						time to both protect the company and its investments in order to achieve maximal yield in returns over time.</p>
-					<p>From our corperate office in Abuja, we leverage on technology, skill and experience to manage our clients stake through cryptocurrency investment, cash crops exportation and trading. Despite the fact that the
-						cryptocurrency sphere is nascent and highly volatile, we have had great
-						results thus growing our client base which consists of investors from
-						diverse places and backgrounds.<p>
-							UNICORN CAPITAL INVESTMENT LTD is dedicated in offering consultation services aimed at
-							assisting Small Medium Enterprises (SMEs) with trading capital and to boost such businesses to greater scale.
+					<p>From our corperate office in Abuja, we leverage on technology, skill and experience to manage our clients stake through cryptocurrency investment, cash crops exportation and trading. <p>
+						 We are committed in offering consultation services strived at assisting Small Medium Enterprises (SMEs) with trading capital and to boost such businesses to greater scale. We go the extra mile to gain in-depth knowledge and understanding of our customers business goals and objectives and thereafter, apply our financial expertise to achieve their short and long term goals.
 
 
 				</div>
@@ -79,14 +76,13 @@ procure assets with our asset managment, exportation of cash crops" />
 				</div>
 				<div class="col-lg-6 welcome-left">
 					<h3>OUR MISSION: </h3>
-					<p>Our Mission is to provide resourceful financing solutions to all our clients driven by a highly motivated and well-trained workforce. Our Value business model (VBM)
-						is designed to ensure that we create value for our clients, improve our unique capabilities and play to our distinct strengths while working across the business value chain.
-						<p>We strive to become a global leader in the provision of fresh market insights, enterprise capacity building, business solutions and support services to public, private organisations and Small Medium Enterprises (SMEs.)
+					<p>Provide superior options. Provide creative solutions. Deliver exceptional services, quick and responsive financial services to Individuals and Small & Medium scale businesses by leveraging on our people, technology and operational excellence while delivering real value to all stakeholders.
+						
 						</p>
 				</div>
 				<div class="col-lg-6 welcome-right">
 					<h3>OUR VISION: </h3>
-					<p>Our Vision is to build and sustain a financial services firm that touches lives and transforms businesses. </p>
+					<p>Dominate and own the SME banking space, progressively transform into a commercial bank by 2023. </p>
 				</div>
 			</div>
 		</div>
@@ -231,8 +227,7 @@ procure assets with our asset managment, exportation of cash crops" />
 				</ul>
 			</div>
 			<div class="copyrightbottom">
-				<p>© 2018 Home Loan. All Rights Reserved | Design by
-					<a href="http://w3layouts.com/">W3layouts</a>
+				<p>© <?php echo date('Y'); ?> Prosperis Fund Limited. All Rights Reserved 
 				</p>
 			</div>
 			<div class="clearfix"></div>

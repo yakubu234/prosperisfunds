@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="zxx">
 
 <head>
-    <title>Home | Unicorn capital investments limited</title>
+    <title>Home | Prosperis Fund Limited</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <meta name="keywords" content="Unicorn capital investments, cryptocurrency trading, get quick soft Loans, get 40%ROI in 20 days, empowerment package, invest and get returns quick, 
@@ -61,7 +61,7 @@ procure assets with our asset managment, exportation of cash crops" />
                         - PJLS: Personal Loan Scheme for Small Medium Enterprises (SMEs.)<br>
                         - GLS: Group Loan Scheme<br>
                         - PLS: Project Loan Scheme.<br>
-                        <p>At Unicorn Capital investment Ltd, our interest rate is modified to suit our prospective clients for easy pay back within 48 weeks. Our loan ranges from 50,000(NGN) above. our charges rang is 18% down payment for loan: 15% insterest on loan : 2.5% on charges and insurance.
+                        <p>At Prosperis Fund Limited, our interest rate is modified to suit our prospective clients for easy pay back within 48 weeks. Our loan ranges from 50,000(NGN) above. our charges rang is 18% down payment for loan: 15% insterest on loan : 2.5% on charges and insurance.
                             <h3>LOAN REQUIREMENT:</h3>
                         </p>
                         1. 2 passport photograph<br>
@@ -231,8 +231,7 @@ procure assets with our asset managment, exportation of cash crops" />
                 </ul>
             </div>
             <div class="copyrightbottom">
-                <p>© 2018 Home Loan. All Rights Reserved | Design by
-                    <a href="http://w3layouts.com/">W3layouts</a>
+                <p>© <?php echo date('Y'); ?> Prosperis Fund Limited. All Rights Reserved 
                 </p>
             </div>
             <div class="clearfix"></div>
